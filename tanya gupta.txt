@@ -1,0 +1,145 @@
+
+<title>
+Tanya Gupta Profile
+</title>
+
+</head>
+
+<body leftmargin="80" rightmargin="150">
+<table cellspacing="20">
+<tr>
+<td><img src="tanya cv final imag.png" height="150"  alt="tanya gupta image"</td>
+<td><h2>
+TANYA GUPTA
+<h1>
+
+<h4>
+	
+&#128241; +919654481232 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+&#128231 guptatanya27@gmail.com
+</h4>
+</td>
+</tr>
+</table>
+
+
+
+
+<br>
+
+<h4>
+OBJECTIVE
+<hr>
+<p>To obtain a position as a Financial Analyst at one of the country’s most outstanding 
+business corporations to use my financial analysis and project management skills in a challenging yet supportive work environment.
+</p>
+
+</h4>
+
+<br>
+
+<h4>
+EDUCATION
+
+<hr>
+
+<table cellspacing="20">
+<tr>
+<th>DEGREE/CERTIFICATE</th> 
+<th> INSTITUTION </th>
+<th> RESULT/CERTIFICATE</th>
+</tr>
+
+<tr>
+<td>Bachelors of commerce (HONS)</td>
+<td>&nbsp;University of Delhi</td>
+<td>71%</td>
+</tr>
+
+<tr>
+<td> Digital Marketing</td>
+<td>NIIM</td>
+<td>Certificate</td>
+</tr>
+
+<tr>
+<td>Web Development</td>
+<td> Udemy </td>
+<td> Certificate</td>
+
+
+</tr>
+</table>
+
+</h4>
+
+<br>
+
+<h4>SKILLS</H4>
+<hr>
+
+
+<table cellspacing="20">
+
+
+<tr>
+<td>ACCOUNTS RECONCILIATON</TD>
+<td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WORDPRESS</td> 
+<td>&#11088;&#11088;&#11088;&#11088;&#11088; </td> 
+
+</tr>
+
+<tr>
+<td>BOOK KEEPING</TD>
+<td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VIDEO EDITING</td> 
+<td>&#11088;&#11088;&#11088;&#11088;&#11088; </td>
+</tr>
+
+
+
+<tr>
+<td> SOCCIAL MEDIA MARKETING</td> 
+<td>&#11088;&#11088;&#11088;&#11088;</td> 
+<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AFFILIATE MARKETING</td> 
+<td>&#11088;&#11088;&#11088;&#11088;</td> 
+</tr>
+
+
+
+<tr>
+<td> SEO </td>
+<td>&#11088;&#11088;&#11088;
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML</td>
+<td>&#11088;&#11088;
+</td>
+</tr>
+
+
+<tr>
+<td>CSS</td>
+<td>&#11088;</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JAVA</td>
+<td>&#11088;</td>
+</tr>
+
+</table>
+
+<hr>
+
+
+
+
+
+
+
+</body>
+
+</html>
+
+
+
